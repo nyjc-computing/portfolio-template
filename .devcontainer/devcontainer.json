@@ -1,0 +1,15 @@
+{
+  "name": "Portfolio Template",
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "george-alisson.html-preview-vscode",
+        "ritwickdey.LiveServer"
+      ],
+      "settings": {
+        "editor.wordWrap": "on"
+      }
+    }
+  }
+}
