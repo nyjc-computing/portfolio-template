@@ -1,6 +1,13 @@
 /* This is a CSS comment. Comments are ignored by the browser */
 
 /* Use CSS selectors and rules to style your portfolio page */
-body {
+h1, h2 {
   font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(182, 212, 213);
+}
+img {
+  width: 200px;
+  height: auto;
+}
 }
